@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_alias_activity" type="layout">@layout/main_detail_activity</item>
+</resources>

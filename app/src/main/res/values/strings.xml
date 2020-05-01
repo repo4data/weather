@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_sharing">分享</string>
+    <string name="menu_locating">定位</string>
+    <string name="default_location">北京市,东城区</string>
+    <string name="default_localcode">110101</string>
+    <string name="intent_amap_format">"androidamap://poi?sourceApplication=softname&amp;keywords=%1$s&amp;dev=0</string>
+    <string name="intent_bmap">intent://map/marker?location=40.047669,116.313082&amp;title=我的位置&amp;content=百度奎科大厦&amp;src=yourCompanyName|yourAppName#Intent;scheme=bdapp;package=com.baidu.BaiduMap;end</string>
+    <string name="location_delimeter">,</string>
+    <string name="image_view_description">Weather</string>
+    <string name="text_location">地理位置</string>
+    <string name="text_unit">温度单位</string>
+    <string name="text_noti">天气通知</string>
+    <string name="enabled">开启</string>
+    <string name="disabled">关闭</string>
+    <string name="unit_c">摄氏度</string>
+    <string name="unit_f">华氏度</string>
+    <string name="unit_f_s">℉</string>
+    <string name="unit_c_s">℃</string>
+    <string name="text_location_emoji">🗺</string>
+    <string name="text_unit_emoji">🌡</string>
+    <string name="text_noti_emoji">💡</string>
+    <string name="text_wind">风速: </string>
+    <string name="text_pres">压强: </string>
+    <string name="test_hum">湿度: </string>
+    <string name="text_degree">°</string>
+    <string name="unit_hum">%</string>
+    <string name="unit_pres">hPa</string>
+    <string name="unit_spr">km/h</string>
+    <string name="new_prompt_title">天气预报</string>
+    <string name="new_ticker">叮～天气预报有更新</string>
+</resources>
